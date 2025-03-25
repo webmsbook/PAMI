@@ -1,9 +1,9 @@
 {
-  "name": "marcelog/pami",
+  "name": "webmsbook/pami",
   "type": "library",
   "description": "Asterisk Manager Interface (AMI) client for PHP, event driven, object oriented",
   "keywords": ["asterisk","ami","client","telephony","voip","event","action","manager","monitor"],
-  "homepage": "http://marcelog.github.com/PAMI",
+  "homepage": "https://github.com/webmsbook/PAMI",
   "license": "Apache-2.0",
   "authors": [
     {
@@ -19,7 +19,7 @@
     }
   },
   "require": {
-    "php": ">=5.3.3",
+    "php": ">=8.1",
     "psr/log": ">= 1.0.0"
   },
   "require-dev": {
